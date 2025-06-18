@@ -1,5 +1,9 @@
 # 💫 About Me:
-Software Developer | Bachelor's of Science in Computer Science
+I’m a passionate and adaptable Software Developer with hands-on experience in building and maintaining software applications using Python, Java, JavaScript, C++, C#, and SQL. Over the years, I’ve worked on a range of projects from web applications and data automation tools to a virtual reality football game and a drawing robot, which have helped me sharpen both my technical and problem-solving skills.
+
+I have a strong interest in cloud computing, data analysis, and software architecture, and I enjoy exploring new technologies and tools that can improve how we build and interact with software. My experience working in Agile teams and collaborating on projects has taught me the importance of clear communication, continuous learning, and adaptability in fast-paced environments.
+
+Right now, I’m looking to grow in a role where I can continue to learn, contribute to meaningful projects, and expand my knowledge in areas like cloud services, DevOps, AI integration, and modern web development frameworks.
 
 
 ## 🌐 Socials:
