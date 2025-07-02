@@ -1,10 +1,13 @@
 # 💫 About Me:
-I’m a passionate and adaptable Software Developer with hands-on experience in building and maintaining software applications using Python, Java, JavaScript, C++, C#, and SQL. Over the years, I’ve worked on a range of projects from web applications and data automation tools to a virtual reality football game and a drawing robot, which have helped me sharpen both my technical and problem-solving skills.
+I’m a passionate Software Developer and Computer Science graduate from the University of Regina, with 4+ years of hands-on experience delivering user-centered software solutions for web platforms, immersive applications, and operational systems.
 
-I have a strong interest in cloud computing, data analysis, and software architecture, and I enjoy exploring new technologies and tools that can improve how we build and interact with software. My experience working in Agile teams and collaborating on projects has taught me the importance of clear communication, continuous learning, and adaptability in fast-paced environments.
+At Immigrant Media Muse, I’ve independently delivered front-end and back-end improvements, maintained APIs, resolved system bugs, and conducted thorough functional and integration testing to improve system reliability and user experience. I thrive in dynamic, fast-paced environments where problem-solving, technical ownership, and clean execution are critical.
 
-Right now, I’m looking to grow in a role where I can continue to learn, contribute to meaningful projects, and expand my knowledge in areas like cloud services, DevOps, AI integration, and modern web development frameworks.
+During my Systems Analyst internship at Brandt Customer Support Centre, I led the digitization of legacy order management processes, optimized inventory tracking systems, and streamlined operational workflows. My ability to analyze operational bottlenecks and implement structured solutions improved processing speed, data accuracy, and customer satisfaction.
 
+Outside of work, I actively pursue personal projects to expand my skills in game development, virtual and augmented reality, and robotics software engineering. Highlights include developing a VR Football Free-Kick Game using Unity and AI-driven goalkeeper mechanics. I’m currently exploring additional projects in VR, AR, and automation software to deepen my expertise and stay ahead of emerging technologies.
+
+I’m driven by curiosity and committed to continuous growth as a software engineer, with particular interest in building scalable, impactful applications and systems. I’m always open to connecting with others in software engineering, game and immersive tech, or automation to exchange ideas and opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ope-adigun-06036520b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:opemipoadigun24@gmail.com) 
