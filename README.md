@@ -1,11 +1,7 @@
 # 💫 About Me:
 I’m a passionate Software Developer and Computer Science graduate from the University of Regina, with 4+ years of hands-on experience delivering user-centered software solutions for web platforms, immersive applications, and operational systems.
 
-At Immigrant Media Muse, I’ve independently delivered front-end and back-end improvements, maintained APIs, resolved system bugs, and conducted thorough functional and integration testing to improve system reliability and user experience. I thrive in dynamic, fast-paced environments where problem-solving, technical ownership, and clean execution are critical.
-
-During my Systems Analyst internship at Brandt Customer Support Centre, I led the digitization of legacy order management processes, optimized inventory tracking systems, and streamlined operational workflows. My ability to analyze operational bottlenecks and implement structured solutions improved processing speed, data accuracy, and customer satisfaction.
-
-Outside of work, I actively pursue personal projects to expand my skills in game development, virtual and augmented reality, and robotics software engineering. Highlights include developing a VR Football Free-Kick Game using Unity and AI-driven goalkeeper mechanics. I’m currently exploring additional projects in VR, AR, and automation software to deepen my expertise and stay ahead of emerging technologies.
+I actively pursue personal projects to expand my skills in game development, virtual and augmented reality, and robotics software engineering. Highlights include developing a VR Football Free-Kick Game using Unity and AI-driven goalkeeper mechanics. I’m currently exploring additional projects in VR, AR, and automation software to deepen my expertise and stay ahead of emerging technologies.
 
 I’m driven by curiosity and committed to continuous growth as a software engineer, with particular interest in building scalable, impactful applications and systems. I’m always open to connecting with others in software engineering, game and immersive tech, or automation to exchange ideas and opportunities.
 
